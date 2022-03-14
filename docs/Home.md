@@ -57,9 +57,9 @@ Markdown tutorials and reference:
 
 # Additional Resources
 
-* [Best-Practices.md]
-* [Documentation-Development-Workflow-on-GitHub.md]
-* [GitHub-workflow.md]
+* (Best-Practices.md)
+* (Documentation-Development-Workflow-on-GitHub.md)
+* (GitHub-workflow.md)
 * [GitHub-Workflow-(Graphical-Representation).md]
 * [How-to-contribute-to-GitHub-tutorials.md]
 * [Working-with-GitHub.md]
