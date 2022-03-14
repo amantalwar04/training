@@ -35,6 +35,8 @@ For more information on creating a GitHub account, see ["Signing up for a new Gi
 9.  In the Accounts page, under **GitHub.com**, click **Sign In**.
 10.  Type your GitHub.com credentials, and click **Sign in**.
 
+For more information, see [Installing and configuring GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop)
+
 ## Step 3. Install and configure Atom editor (For Writers only)
 
 1.  Navigate to https://atom.io/.
