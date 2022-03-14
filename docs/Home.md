@@ -69,3 +69,4 @@ Markdown tutorials and reference:
 *   [Working-with-Issues.md](Working-with-Issues.md)
 *   [Working-with-Markdown.md](Working-with-Markdown.md)
 *   [GitHub Glossary](https://docs.github.com/en/get-started/quickstart/github-glossary)
+*   [Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)
