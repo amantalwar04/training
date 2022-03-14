@@ -1,0 +1,1 @@
+define({"topics":[{"title":"Duck weight","href":"c_duck_weight.html","attributes":{"data-id":"concept_elements"},"menu":{"hasChildren":false},"tocID":"concept_elements-d326e84","topics":[]}]});
