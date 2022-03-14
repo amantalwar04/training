@@ -1,8 +1,8 @@
 <h1>Create a branch</h1>
 
-1. On GitHub, navigate to the main page of the https://github.com/Xilinx/TechDocs repository.
+1. On GitHub, navigate to the main page of the GitHub repository.
 2. Click the branch selector menu.
-3. Type the branch name. For details on branches, see the [GitHub Workflow](https://github.com/Xilinx/TechDocs/wiki/GitHub-workflow)
+3. Type the branch name. For details on branches, see the [GitHub Workflow](GitHub-workflow.md)
 4. Press <b>Enter</b>. 
 
 <h1>Start a Review</h1>
