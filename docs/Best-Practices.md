@@ -1,4 +1,4 @@
-This quick start will require minimal time, but it will give you a good idea of how to apply the most important Docs style concepts when writing tutorials on GitHub. These guidelines apply whether you are creating new documentation or updating existing Xilinx documentation.
+This quick start will require minimal time, but it will give you a good idea of how to apply the most important Docs style concepts when writing tutorials on GitHub. These guidelines apply whether you are creating new documentation or updating existing Microchip GitHub documentation.
 
 # Style & Tone
 
