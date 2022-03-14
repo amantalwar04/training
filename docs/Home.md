@@ -1,7 +1,7 @@
 # Welcome to the TechDocs Wiki!
 This wiki is an end-to-end guide to help you work with GitHub tutorials. The wiki covers all the steps involved and provides you with links to external resources where necessary or helpful. 
 
-> This wiki is intended for use by the technical communicators in the Xilinx Technical Documentation and Localization (TDL) department. If you have any suggestions for improvements, clarifications, or other feedback about the contents of this wiki, please raise an issue.
+> This wiki is intended for use by the technical communicators in the Microchip FPGA Technical Documentation department. If you have any suggestions for improvements, clarifications, or other feedback about the contents of this wiki, please raise an issue.
 
 # Prerequisites
 
@@ -54,3 +54,7 @@ Complete a time honored "Hello World" exercise, and learn GitHub essentials. Cli
 Markdown tutorials and reference:
 * Markdown Tutorial: https://www.markdowntutorial.com/
 * Markdown Reference: https://commonmark.org/help/
+
+# Additional Resources
+
+* Best-Practices.md
