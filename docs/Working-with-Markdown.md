@@ -608,7 +608,7 @@ Which renders to:
 
 
 # Page Header & Navigation
-To create a Xilinx page header use the HTML table tags on each markdown page. See the code and example below for details.
+To create a Microchip page header use the HTML table tags on each markdown page. See the code and example below for details.
 
 🔢 <b>Code</b>
 ```HTML
@@ -616,7 +616,7 @@ To create a Xilinx page header use the HTML table tags on each markdown page. Se
 
 <table style="width:100%">
   <tr>
-    <th width="100%" colspan="6"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>SDSoC Platform Creation Labs</h1>
+    <th width="100%" colspan="6"><img src="https://www.microchip.com/content/experience-fragments/mchp/en_us/site/header/master/_jcr_content/root/responsivegrid/header/logo.coreimg.100.300.png/1605828081463/microchip.png"/><h1>Page Header</h1>
 </th>
   </tr>
   <tr>
@@ -635,14 +635,8 @@ The above code renders as follows:
 
 <table style="width:100%">
   <tr>
-    <th width="100%" colspan="6"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>SDSoC Platform Creation Labs</h2>
+    <th width="100%" colspan="6"><img src="https://www.microchip.com/content/experience-fragments/mchp/en_us/site/header/master/_jcr_content/root/responsivegrid/header/logo.coreimg.100.300.png/1605828081463/microchip.png"/><h1>Page Header</h2>
 </th>
-  </tr>
-  <tr>
-    <td align="center"><a href="readme.md">Introduction</a></td>
-    <td align="center">Lab 1: Creating DSA for a Zynq-7000 SoC Processor Design</td> 
-    <td align="center"><a href="Lab2-Creating-Software-Components.md">Lab 2: Creating Software Components for the Platform</a></td>
-    <td align="center"><a href="Lab3-Creating-Custom-Platform-Using-the-SDx-IDE.md">Lab 3: Creating a Custom Platform Using the SDx IDE</a></td>
   </tr>
 </table>
 
@@ -652,14 +646,14 @@ To create a footer on each markdown page use the HTML `<p>` tag. See the code an
 🔢 <b>Code</b>
 ```
 <hr/>
-<p align="center"><sup>Copyright&copy; 2018 Xilinx</sup></p>
+<p align="center"><sup>Copyright&copy; 2022 Microchip</sup></p>
 ```
 
 ✔️ <b>Example</b>
 
 The above code renders as follows:
 <hr/>
-<p align="center"><sup>Copyright&copy; 2018 Xilinx</sup></p>
+<p align="center"><sup>Copyright&copy; 2022 Microchip</sup></p>
 
 # Collapsible Sections
 To create collapsible sections in the markdown files, wrap the text in the `<details>` tag. See the code and example below for details.
@@ -667,7 +661,7 @@ To create collapsible sections in the markdown files, wrap the text in the `<det
 🔢 <b>Code</b>
 ```
 <details>
- <summary><b>Step 1: Start the Vivado IDE and Create a Project</b></summary>
+ <summary><b>Step 1: Start Libero and Create a Project</b></summary>
  ...this is hidden, collapsable content...
 </details>
 ```
@@ -676,7 +670,7 @@ To create collapsible sections in the markdown files, wrap the text in the `<det
 
 The above code renders as follows:
 <details>
- <summary><b>Step 1: Start the Vivado IDE and Create a Project</b></summary>
+ <summary><b>Step 1: Start Libero and Create a Project</b></summary>
  ...this is hidden, collapsable content...
 </details>
 
