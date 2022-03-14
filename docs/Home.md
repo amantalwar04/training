@@ -65,6 +65,6 @@ Markdown tutorials and reference:
 *   [GitHub-workflow.md](GitHub-workflow.md)
 *   [GitHub-Workflow-Graphical-Representation.md](GitHub-Workflow-Graphical-Representation.md)
 *   [How-to-contribute-to-GitHub-tutorials.md](How-to-contribute-to-GitHub-tutorials.md)
-*   [Working-with-GitHub.md]
-*   [Working-with-Issues.md]
-*   [Working-with-Markdown.md]
+*   [Working-with-GitHub.md](Working-with-GitHub.md)
+*   [Working-with-Issues.md](Working-with-Issues.md)
+*   [Working-with-Markdown.md](Working-with-Markdown.md)
