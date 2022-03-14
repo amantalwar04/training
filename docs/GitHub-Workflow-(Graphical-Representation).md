@@ -1,1 +1,1 @@
-![github_workflow](https://user-images.githubusercontent.com/6716089/40115577-94e76426-592e-11e8-9def-1e29e1488af5.png)
+![github_workflow](flow.png)
