@@ -74,3 +74,23 @@ If `master` has moved on a point release (2017.1, 2017.2, 2017.3, etc) and a hot
 *   fix the bug and merge `<docid>-hotfix-2017.1.1` back into `<docid>-support-2017.1`
 
 📌 **NOTE:** The support branch effectively becomes a master branch for a past version.
+
+# **Opening a pull request**
+
+Now that you have changes in a branch off of `main`, you can open a pull request.
+
+Pull requests are the heart of collaboration on GitHub. When you open a pull request, you're proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in different colors.
+
+As soon as you make a commit, you can open a pull request and start a discussion, even before the code is finished.
+
+By using GitHub's `@mention` feature in your pull request message, you can ask for feedback from specific people or teams, whether they're down the hall or 10 time zones away.
+
+Your collaborators can now review your edits and make suggestions.
+
+# **Merging your pull request**
+
+In this final step, you will merge your `readme-edits` branch into the `main` branch. After you merge your pull request, the changes on your `readme-edits` branch will be incorporated into `main`.
+
+Sometimes, a pull request may introduce changes to code that conflict with the existing code on `main`. If there are any conflicts, GitHub will alert you about the conflicting code and prevent merging until the conflicts are resolved. You can make a commit that resolves the conflicts or use comments in the pull request to discuss the conflicts with your team members.
+
+In this walk-through, you should not have any conflicts, so you are ready to merge your branch into the main branch.
