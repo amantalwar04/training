@@ -2,6 +2,8 @@
 
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
+![](https://user-images.githubusercontent.com/6716089/158302083-c8408f82-f26e-480c-a0a4-d1e8957ddb8e.PNG)
+
 # Create a Branch
 
 Branching lets you have different versions of a repository at one time.
